@@ -4,6 +4,7 @@ Developed by Divij Sood, R&D Fellow at InGAME.
 InGAME is the UK's dedicated centre for innovation in games and media technology. It is funded by the AHRC as part of the UK Industrial Strategy.
 
 Requires Lightship ARDK 2.1.0 and Unity 2021.3.0f1  
+Requires Lightship Hub and Lightship Mock Meshes for testing  
 You can upgrade the project but will need to update the WayspotAnchorController script based on update notes from Lightship ARDK.
 
 ## Scripts changed:
