@@ -1,6 +1,6 @@
 # LightshipExtensions
-Includes a demo scene and scripts with some new extended functionality to help with creating Lightship ARDK projects
-Developed by Divij Sood, R&D Fellow at InGAME
+Includes a demo scene and scripts with some new extended functionality to help with creating Lightship ARDK projects.
+Developed by Divij Sood, R&D Fellow at InGAME.
 InGAME is the UK's dedicated centre for innovation in games and media technology. It is funded by the AHRC as part of the UK Industrial Strategy.
 
 Requires Lightship ARDK 2.1.0
@@ -42,4 +42,3 @@ Click "Take Photo" to take a screenshot and store it on-device
 ## Coming soon:
 Gaze-based interaction: Object glow brighter as you align your view with it
 InteractiveObject interface
-
