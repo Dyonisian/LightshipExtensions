@@ -24,10 +24,13 @@ SerializableTypes based on answers by Cherno and JimmyCushnie at
 https://answers.unity.com/questions/956047/serialize-quaternion-or-vector3.html  
 
 ## Main features:
+### Auto-load persistent content in-place:
 In addition to placed object anchor positions, anchor’s child object’s rotation is also saved  
 The object id for each anchor is saved, so when it loads, the correct object is spawned at each anchor  
 Function for gaze input added to both placement scripts  
+### Guide users to AR objects
 DirectionalArrow is a screen-space floating pointer that helps guide the player to an AR object  
+### Take photos in AR
 TakePhoto uses the Native Gallery Plugin to take a screenshot and save it on an Android or Apple device  
 
 ## Instructions:
